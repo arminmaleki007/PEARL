@@ -1,7 +1,7 @@
 # PEARL
 
 **PEARL: A Lightweight Prompt-based Feature Interpreter Framework for Real-Time, Anonymous, and Heterogeneous Collaborative Perception**  
-*Accepted at CVPR 2026*
+*Accepted at CVPR Findings 2026*
 
 ---
 

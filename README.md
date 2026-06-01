@@ -1,6 +1,20 @@
 # PEARL
 
-**PEARL: A Lightweight Prompt-based Feature Interpreter Framework for Real-Time, Anonymous, and Heterogeneous Collaborative Perception**  
+**PEARL: A Lightweight Prompt-based Feature Interpreter Framework for Real-Time, Anonymous, and Heterogeneous Collaborative Perception** *CVPR 2026*
+
+---
+
+## 📄 Paper
+Our CVPR 2026 paper, [PEARL: A Lightweight Prompt-based Feature Interpreter Framework for Real-Time, Anonymous, and Heterogeneous Collaborative Perception](https://openaccess.thecvf.com/content/CVPR2026F/html/Maleki_PEARL_A_Lightweight_Prompt-based_Feature_Interpreter_Framework_for_Real-Time_Anonymous_CVPRF_2026_paper.html), is now available. 
+
+**Authors**: Armin Maleki and Hayder Radha
+<p align="center">
+<img width="1280" height="614" alt="model" src="https://github.com/user-attachments/assets/cad4370b-9977-4c7d-ad44-28eb846de3e5" />
+</p>
+
+<p align="center">
+  <em>Overview of the proposed PEARL framework for real-time, anonymous, and heterogeneous collaborative perception.</em>
+</p>
 
 ---
 
@@ -10,11 +24,6 @@ The official implementation will be released soon.
 
 ---
 
-## 📄 Paper
-The official CVPR2026 paper [PEARL: A Lightweight Prompt-based Feature Interpreter Framework for Real-Time, Anonymous, and Heterogeneous Collaborative Perception](https://openaccess.thecvf.com/content/CVPR2026F/html/Maleki_PEARL_A_Lightweight_Prompt-based_Feature_Interpreter_Framework_for_Real-Time_Anonymous_CVPRF_2026_paper.html), Armin Maleki and Hayder Radha
-<img width="1280" height="720" alt="model" src="https://github.com/user-attachments/assets/932bbe45-7c93-431c-9357-018178dd5844" />
-
----
 
 ## 📦 Coming Soon
 - Training and inference code  
